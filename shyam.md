@@ -33,8 +33,8 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamsudhesh&show_icons=true&theme=tokyonight&hide=issues" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamsudhesh&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Falsesam&show_icons=true&theme=tokyonight&hide=issues" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Falsesam&layout=compact&theme=tokyonight" />
 </p>
 
 ---
