@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Falsesam">
-    <img src="https://img.shields.io/github/followers/shyamsudhesh?label=Follow&style=social">
+    <img src="https://img.shields.io/github/followers/Falsesam?label=Follow&style=social">
   </a>
   <a href="mailto:shyamsudesh8@gmail.com">
     <img src="https://img.shields.io/badge/email-DM%20Me%20Anytime-blue">
