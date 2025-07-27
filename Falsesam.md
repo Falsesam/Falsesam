@@ -40,7 +40,6 @@
 ---
 
 ### 🚀 Projects & Experiments
-- 💬 `Lyra`: My personal AI voice assistant (work in progress)  
 - 🛠️ Local LLM exploration with Whisper, VAD, Edge-TTS, PyTorch  
 - 📦 Small practice scripts & automation tools in Python
 
