@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shyam 👋</h1>
+<h1 align="center">Hi There, I'm Shyam 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Future+AI+Engineer;In+Love+Building+of+Cool+Things!&center=true&width=440&height=45">
