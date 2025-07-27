@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shyamsudhesh">
+  <a href="https://github.com/Falsesam">
     <img src="https://img.shields.io/github/followers/shyamsudhesh?label=Follow&style=social">
   </a>
   <a href="mailto:shyamsudesh8@gmail.com">
